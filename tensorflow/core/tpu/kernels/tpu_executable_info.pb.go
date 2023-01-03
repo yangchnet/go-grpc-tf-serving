@@ -22,9 +22,9 @@
 package kernels
 
 import (
-	xla "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/xla"
-	service "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/xla/service"
-	framework "gitee.com/qciip-icp/tf-serving/tensorflow/core/framework"
+	xla "github.com/yangchnet/tf-serving/tensorflow/compiler/xla"
+	service "github.com/yangchnet/tf-serving/tensorflow/compiler/xla/service"
+	framework "github.com/yangchnet/tf-serving/tensorflow/core/framework"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

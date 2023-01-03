@@ -7,7 +7,7 @@
 package polymorphism
 
 import (
-	trace_type "gitee.com/qciip-icp/tf-serving/tensorflow/core/function/trace_type"
+	trace_type "github.com/yangchnet/tf-serving/tensorflow/core/function/trace_type"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

@@ -22,7 +22,7 @@
 package kernels
 
 import (
-	tf2xla "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/tf2xla"
+	tf2xla "github.com/yangchnet/tf-serving/tensorflow/compiler/tf2xla"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

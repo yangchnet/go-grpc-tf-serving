@@ -22,8 +22,8 @@
 package kernels
 
 import (
-	framework "gitee.com/qciip-icp/tf-serving/tensorflow/core/framework"
-	tpu "gitee.com/qciip-icp/tf-serving/tensorflow/core/protobuf/tpu"
+	framework "github.com/yangchnet/tf-serving/tensorflow/core/framework"
+	tpu "github.com/yangchnet/tf-serving/tensorflow/core/protobuf/tpu"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

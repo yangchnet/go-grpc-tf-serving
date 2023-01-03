@@ -22,10 +22,10 @@
 package debug
 
 import (
-	framework "gitee.com/qciip-icp/tf-serving/tensorflow/core/framework"
-	profiler "gitee.com/qciip-icp/tf-serving/tensorflow/core/profiler"
-	protobuf "gitee.com/qciip-icp/tf-serving/tensorflow/core/protobuf"
-	util "gitee.com/qciip-icp/tf-serving/tensorflow/core/util"
+	framework "github.com/yangchnet/tf-serving/tensorflow/core/framework"
+	profiler "github.com/yangchnet/tf-serving/tensorflow/core/profiler"
+	protobuf "github.com/yangchnet/tf-serving/tensorflow/core/protobuf"
+	util "github.com/yangchnet/tf-serving/tensorflow/core/util"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

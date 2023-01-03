@@ -10,8 +10,8 @@
 package protobuf
 
 import (
-	_ "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/xla/stream_executor"
-	protobuf "gitee.com/qciip-icp/tf-serving/tensorflow/tsl/protobuf"
+	_ "github.com/yangchnet/tf-serving/tensorflow/compiler/xla/stream_executor"
+	protobuf "github.com/yangchnet/tf-serving/tensorflow/tsl/protobuf"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

@@ -8,7 +8,7 @@ package rpc
 
 import (
 	context "context"
-	xla "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/xla"
+	xla "github.com/yangchnet/tf-serving/tensorflow/compiler/xla"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"

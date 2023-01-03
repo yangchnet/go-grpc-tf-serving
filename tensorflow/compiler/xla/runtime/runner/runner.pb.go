@@ -22,7 +22,7 @@
 package runner
 
 import (
-	xla "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/xla"
+	xla "github.com/yangchnet/tf-serving/tensorflow/compiler/xla"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

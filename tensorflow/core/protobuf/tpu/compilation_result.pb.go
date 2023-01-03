@@ -7,9 +7,9 @@
 package tpu
 
 import (
-	service "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/xla/service"
-	_ "gitee.com/qciip-icp/tf-serving/tensorflow/core/protobuf"
-	protobuf "gitee.com/qciip-icp/tf-serving/tensorflow/tsl/protobuf"
+	service "github.com/yangchnet/tf-serving/tensorflow/compiler/xla/service"
+	_ "github.com/yangchnet/tf-serving/tensorflow/core/protobuf"
+	protobuf "github.com/yangchnet/tf-serving/tensorflow/tsl/protobuf"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

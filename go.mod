@@ -1,4 +1,4 @@
-module gitee.com/qciip-icp/tf-serving
+module github.com/yangchnet/tf-serving
 
 go 1.19
 

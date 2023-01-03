@@ -7,9 +7,9 @@
 package xrt
 
 import (
-	tf2xla "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/tf2xla"
-	xla "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/xla"
-	service "gitee.com/qciip-icp/tf-serving/tensorflow/compiler/xla/service"
+	tf2xla "github.com/yangchnet/tf-serving/tensorflow/compiler/tf2xla"
+	xla "github.com/yangchnet/tf-serving/tensorflow/compiler/xla"
+	service "github.com/yangchnet/tf-serving/tensorflow/compiler/xla/service"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

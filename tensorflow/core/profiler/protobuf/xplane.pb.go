@@ -7,7 +7,7 @@
 package protobuf
 
 import (
-	protobuf "gitee.com/qciip-icp/tf-serving/tensorflow/tsl/profiler/protobuf"
+	protobuf "github.com/yangchnet/tf-serving/tensorflow/tsl/profiler/protobuf"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

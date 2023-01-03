@@ -7,7 +7,7 @@
 package protobuf
 
 import (
-	framework "gitee.com/qciip-icp/tf-serving/tensorflow/core/framework"
+	framework "github.com/yangchnet/tf-serving/tensorflow/core/framework"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	anypb "google.golang.org/protobuf/types/known/anypb"

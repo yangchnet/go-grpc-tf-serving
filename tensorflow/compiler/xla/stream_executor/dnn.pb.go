@@ -9,7 +9,7 @@
 package stream_executor
 
 import (
-	protobuf "gitee.com/qciip-icp/tf-serving/tensorflow/tsl/protobuf"
+	protobuf "github.com/yangchnet/tf-serving/tensorflow/tsl/protobuf"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

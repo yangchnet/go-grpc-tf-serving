@@ -22,7 +22,7 @@
 package jit
 
 import (
-	protobuf "gitee.com/qciip-icp/tf-serving/tensorflow/core/protobuf"
+	protobuf "github.com/yangchnet/tf-serving/tensorflow/core/protobuf"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

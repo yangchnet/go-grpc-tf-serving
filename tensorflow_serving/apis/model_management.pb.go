@@ -7,7 +7,7 @@
 package apis
 
 import (
-	config "gitee.com/qciip-icp/tf-serving/tensorflow_serving/config"
+	config "github.com/yangchnet/tf-serving/tensorflow_serving/config"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

@@ -10,7 +10,7 @@
 package apis
 
 import (
-	example "gitee.com/qciip-icp/tf-serving/tensorflow/core/example"
+	example "github.com/yangchnet/tf-serving/tensorflow/core/example"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

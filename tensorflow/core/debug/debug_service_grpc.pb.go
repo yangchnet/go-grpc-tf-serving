@@ -8,8 +8,8 @@ package debug
 
 import (
 	context "context"
-	protobuf "gitee.com/qciip-icp/tf-serving/tensorflow/core/protobuf"
-	util "gitee.com/qciip-icp/tf-serving/tensorflow/core/util"
+	protobuf "github.com/yangchnet/tf-serving/tensorflow/core/protobuf"
+	util "github.com/yangchnet/tf-serving/tensorflow/core/util"
 	grpc "google.golang.org/grpc"
 	codes "google.golang.org/grpc/codes"
 	status "google.golang.org/grpc/status"
